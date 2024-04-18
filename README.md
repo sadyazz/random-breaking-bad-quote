@@ -1,6 +1,7 @@
 Using the Breaking Bad Quotes API (https://breakingbadquotes.xyz/) for fetching quotes
 
-![bbquotes](https://github.com/sadyazz/random-breaking-bad-quote/assets/97617659/d5f10e20-6f16-4eb1-99f4-0916b57418dc)
+![bb_quote](https://github.com/sadyazz/random-breaking-bad-quote/assets/97617659/6541c35f-3405-4787-8beb-e425177fc36e)
+
 
 # Getting Started with Create React App
 
